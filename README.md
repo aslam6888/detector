@@ -12,9 +12,9 @@ Login to webapp
   Password : password
   
  Step 5:
-    Choose objects to detect in the video file
-    Choose any video file
-    And then click upload button
-    It will take around 2-5 minutes to process ,You can quit by pressing 'q' key
-    After process completed it will redirect to download page
-    You can download it by clicking download button
+    1 .Choose objects to detect in the video file
+    2 .Choose any video file
+    3 .And then click upload button
+    4 .It will take around 2-5 minutes to process ,You can quit by pressing 'q' key
+    5 .After process completed it will redirect to download page
+    6 .You can download it by clicking download button
