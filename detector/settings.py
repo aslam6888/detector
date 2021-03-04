@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'xtrv4q&iv=ahc0$9!rgawmlv9uji_(m*_o(^qd(w9xgqy(o8$h'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['detector-python.herokuapp.com']
 
